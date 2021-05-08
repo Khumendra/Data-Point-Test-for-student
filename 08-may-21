@@ -11,37 +11,28 @@ Python Test
 4. Write a Python function to print even numbers upto n 
 
 5. Write a Python function to print sum of digits of number n 
-
 	Output: 
-  
-		Number: 4    
+  		Number: 4    
 		result: 10
     
     
 6. Write a Python function to print the factors of given numnber 
-
 	Output: 
-  
-		Number: 10
+  		Number: 10
     		result: 1 2 5 10 
     
 7. Write a Python function to print factorial of given number 
-
 	Outupt:
-  
-		Number: 5
+  		Number: 5
     		result: 120
     
 	
 8. Write a Python function to swap the given two numbers, without using 3rd variable.
-
 	Output:
-  
 		num1: 10
     		num2: 20
     
 	result: 
-  
 		num1: 20
     		num2: 10
 
